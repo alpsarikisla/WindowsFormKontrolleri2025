@@ -1,0 +1,12 @@
+C:\Users\303\source\repos\WinformsKontrolleri\WinformsKontrolleri\bin\Debug\WinformsKontrolleri.exe.config
+C:\Users\303\source\repos\WinformsKontrolleri\WinformsKontrolleri\bin\Debug\WinformsKontrolleri.exe
+C:\Users\303\source\repos\WinformsKontrolleri\WinformsKontrolleri\bin\Debug\WinformsKontrolleri.pdb
+C:\Users\303\source\repos\WinformsKontrolleri\WinformsKontrolleri\obj\Debug\WinformsKontrolleri.csproj.AssemblyReference.cache
+C:\Users\303\source\repos\WinformsKontrolleri\WinformsKontrolleri\obj\Debug\WinformsKontrolleri.Properties.Resources.resources
+C:\Users\303\source\repos\WinformsKontrolleri\WinformsKontrolleri\obj\Debug\WinformsKontrolleri.csproj.GenerateResource.cache
+C:\Users\303\source\repos\WinformsKontrolleri\WinformsKontrolleri\obj\Debug\WinformsKontrolleri.csproj.CoreCompileInputs.cache
+C:\Users\303\source\repos\WinformsKontrolleri\WinformsKontrolleri\obj\Debug\WinformsKontrolleri.exe
+C:\Users\303\source\repos\WinformsKontrolleri\WinformsKontrolleri\obj\Debug\WinformsKontrolleri.pdb
+C:\Users\303\source\repos\WinformsKontrolleri\WinformsKontrolleri\obj\Debug\WinformsKontrolleri.exe.config
+C:\Users\303\source\repos\WinformsKontrolleri\WinformsKontrolleri\obj\Debug\WinformsKontrolleri.HerhangiBirForm.resources
+C:\Users\303\source\repos\WinformsKontrolleri\WinformsKontrolleri\obj\Debug\WinformsKontrolleri.CokKullanilanKontroller.resources
