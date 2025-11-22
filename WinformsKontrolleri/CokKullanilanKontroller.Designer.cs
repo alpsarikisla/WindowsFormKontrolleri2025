@@ -74,8 +74,35 @@
             this.numericUpDown1 = new System.Windows.Forms.NumericUpDown();
             this.numericUpDown2 = new System.Windows.Forms.NumericUpDown();
             this.label30 = new System.Windows.Forms.Label();
+            this.label31 = new System.Windows.Forms.Label();
+            this.button1 = new System.Windows.Forms.Button();
+            this.lbl_mesaj = new System.Windows.Forms.Label();
+            this.label32 = new System.Windows.Forms.Label();
+            this.tb_sayi1 = new System.Windows.Forms.TextBox();
+            this.label33 = new System.Windows.Forms.Label();
+            this.tb_sayi2 = new System.Windows.Forms.TextBox();
+            this.btn_topla = new System.Windows.Forms.Button();
+            this.btn_cikar = new System.Windows.Forms.Button();
+            this.btn_carp = new System.Windows.Forms.Button();
+            this.btn_bol = new System.Windows.Forms.Button();
+            this.label34 = new System.Windows.Forms.Label();
+            this.tb_sonuc = new System.Windows.Forms.TextBox();
+            this.label35 = new System.Windows.Forms.Label();
+            this.cb_sozlesme = new System.Windows.Forms.CheckBox();
+            this.btn_kaydet = new System.Windows.Forms.Button();
+            this.label36 = new System.Windows.Forms.Label();
+            this.rb_kadin = new System.Windows.Forms.RadioButton();
+            this.rb_erkek = new System.Windows.Forms.RadioButton();
+            this.lbl_sonuc = new System.Windows.Forms.Label();
+            this.btn_kayitol = new System.Windows.Forms.Button();
+            this.rb_evli = new System.Windows.Forms.RadioButton();
+            this.rb_bekar = new System.Windows.Forms.RadioButton();
+            this.groupBox1 = new System.Windows.Forms.GroupBox();
+            this.groupBox2 = new System.Windows.Forms.GroupBox();
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDown1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDown2)).BeginInit();
+            this.groupBox1.SuspendLayout();
+            this.groupBox2.SuspendLayout();
             this.SuspendLayout();
             // 
             // label1
@@ -500,11 +527,273 @@
             this.label30.TabIndex = 42;
             this.label30.Text = "Katılımcı Sayısı =";
             // 
+            // label31
+            // 
+            this.label31.AutoSize = true;
+            this.label31.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.label31.Location = new System.Drawing.Point(524, 141);
+            this.label31.Name = "label31";
+            this.label31.Size = new System.Drawing.Size(146, 25);
+            this.label31.TabIndex = 43;
+            this.label31.Text = "Button Kontrolü";
+            // 
+            // button1
+            // 
+            this.button1.Location = new System.Drawing.Point(529, 179);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(177, 26);
+            this.button1.TabIndex = 44;
+            this.button1.Text = "Lütfen Tıklamayın";
+            this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
+            // 
+            // lbl_mesaj
+            // 
+            this.lbl_mesaj.AutoSize = true;
+            this.lbl_mesaj.Location = new System.Drawing.Point(712, 186);
+            this.lbl_mesaj.Name = "lbl_mesaj";
+            this.lbl_mesaj.Size = new System.Drawing.Size(0, 13);
+            this.lbl_mesaj.TabIndex = 45;
+            // 
+            // label32
+            // 
+            this.label32.AutoSize = true;
+            this.label32.Location = new System.Drawing.Point(526, 224);
+            this.label32.Name = "label32";
+            this.label32.Size = new System.Drawing.Size(39, 13);
+            this.label32.TabIndex = 46;
+            this.label32.Text = "1. Sayı";
+            // 
+            // tb_sayi1
+            // 
+            this.tb_sayi1.Location = new System.Drawing.Point(529, 240);
+            this.tb_sayi1.Name = "tb_sayi1";
+            this.tb_sayi1.Size = new System.Drawing.Size(156, 20);
+            this.tb_sayi1.TabIndex = 47;
+            // 
+            // label33
+            // 
+            this.label33.AutoSize = true;
+            this.label33.Location = new System.Drawing.Point(688, 224);
+            this.label33.Name = "label33";
+            this.label33.Size = new System.Drawing.Size(39, 13);
+            this.label33.TabIndex = 46;
+            this.label33.Text = "2. Sayı";
+            // 
+            // tb_sayi2
+            // 
+            this.tb_sayi2.Location = new System.Drawing.Point(691, 240);
+            this.tb_sayi2.Name = "tb_sayi2";
+            this.tb_sayi2.Size = new System.Drawing.Size(156, 20);
+            this.tb_sayi2.TabIndex = 47;
+            // 
+            // btn_topla
+            // 
+            this.btn_topla.Location = new System.Drawing.Point(529, 266);
+            this.btn_topla.Name = "btn_topla";
+            this.btn_topla.Size = new System.Drawing.Size(75, 23);
+            this.btn_topla.TabIndex = 48;
+            this.btn_topla.Text = "Toplam";
+            this.btn_topla.UseVisualStyleBackColor = true;
+            this.btn_topla.Click += new System.EventHandler(this.dortislem_Yap);
+            // 
+            // btn_cikar
+            // 
+            this.btn_cikar.Location = new System.Drawing.Point(610, 266);
+            this.btn_cikar.Name = "btn_cikar";
+            this.btn_cikar.Size = new System.Drawing.Size(75, 23);
+            this.btn_cikar.TabIndex = 48;
+            this.btn_cikar.Text = "Fark";
+            this.btn_cikar.UseVisualStyleBackColor = true;
+            this.btn_cikar.Click += new System.EventHandler(this.dortislem_Yap);
+            // 
+            // btn_carp
+            // 
+            this.btn_carp.Location = new System.Drawing.Point(691, 266);
+            this.btn_carp.Name = "btn_carp";
+            this.btn_carp.Size = new System.Drawing.Size(75, 23);
+            this.btn_carp.TabIndex = 48;
+            this.btn_carp.Text = "Çarpım";
+            this.btn_carp.UseVisualStyleBackColor = true;
+            this.btn_carp.Click += new System.EventHandler(this.dortislem_Yap);
+            // 
+            // btn_bol
+            // 
+            this.btn_bol.Location = new System.Drawing.Point(772, 266);
+            this.btn_bol.Name = "btn_bol";
+            this.btn_bol.Size = new System.Drawing.Size(75, 23);
+            this.btn_bol.TabIndex = 48;
+            this.btn_bol.Text = "Bölüm";
+            this.btn_bol.UseVisualStyleBackColor = true;
+            this.btn_bol.Click += new System.EventHandler(this.dortislem_Yap);
+            // 
+            // label34
+            // 
+            this.label34.AutoSize = true;
+            this.label34.Location = new System.Drawing.Point(526, 301);
+            this.label34.Name = "label34";
+            this.label34.Size = new System.Drawing.Size(50, 13);
+            this.label34.TabIndex = 49;
+            this.label34.Text = "Sonuç = ";
+            // 
+            // tb_sonuc
+            // 
+            this.tb_sonuc.Location = new System.Drawing.Point(612, 294);
+            this.tb_sonuc.Name = "tb_sonuc";
+            this.tb_sonuc.Size = new System.Drawing.Size(235, 20);
+            this.tb_sonuc.TabIndex = 50;
+            // 
+            // label35
+            // 
+            this.label35.AutoSize = true;
+            this.label35.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.label35.Location = new System.Drawing.Point(524, 337);
+            this.label35.Name = "label35";
+            this.label35.Size = new System.Drawing.Size(181, 25);
+            this.label35.TabIndex = 51;
+            this.label35.Text = "CheckBox Kontrolü";
+            // 
+            // cb_sozlesme
+            // 
+            this.cb_sozlesme.AutoSize = true;
+            this.cb_sozlesme.Location = new System.Drawing.Point(530, 375);
+            this.cb_sozlesme.Name = "cb_sozlesme";
+            this.cb_sozlesme.Size = new System.Drawing.Size(243, 17);
+            this.cb_sozlesme.TabIndex = 52;
+            this.cb_sozlesme.Text = "Kullanıcı Sözleşmesini okudum kabul ediyorum";
+            this.cb_sozlesme.UseVisualStyleBackColor = true;
+            // 
+            // btn_kaydet
+            // 
+            this.btn_kaydet.Location = new System.Drawing.Point(529, 401);
+            this.btn_kaydet.Name = "btn_kaydet";
+            this.btn_kaydet.Size = new System.Drawing.Size(75, 23);
+            this.btn_kaydet.TabIndex = 53;
+            this.btn_kaydet.Text = "Kaydet";
+            this.btn_kaydet.UseVisualStyleBackColor = true;
+            this.btn_kaydet.Click += new System.EventHandler(this.btn_kaydet_Click);
+            // 
+            // label36
+            // 
+            this.label36.AutoSize = true;
+            this.label36.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.label36.Location = new System.Drawing.Point(524, 440);
+            this.label36.Name = "label36";
+            this.label36.Size = new System.Drawing.Size(196, 25);
+            this.label36.TabIndex = 54;
+            this.label36.Text = "RadioButton Kontrolü";
+            // 
+            // rb_kadin
+            // 
+            this.rb_kadin.AutoSize = true;
+            this.rb_kadin.Checked = true;
+            this.rb_kadin.Location = new System.Drawing.Point(17, 31);
+            this.rb_kadin.Name = "rb_kadin";
+            this.rb_kadin.Size = new System.Drawing.Size(52, 17);
+            this.rb_kadin.TabIndex = 55;
+            this.rb_kadin.TabStop = true;
+            this.rb_kadin.Text = "Kadın";
+            this.rb_kadin.UseVisualStyleBackColor = true;
+            // 
+            // rb_erkek
+            // 
+            this.rb_erkek.AutoSize = true;
+            this.rb_erkek.Location = new System.Drawing.Point(75, 31);
+            this.rb_erkek.Name = "rb_erkek";
+            this.rb_erkek.Size = new System.Drawing.Size(53, 17);
+            this.rb_erkek.TabIndex = 55;
+            this.rb_erkek.Text = "Erkek";
+            this.rb_erkek.UseVisualStyleBackColor = true;
+            // 
+            // lbl_sonuc
+            // 
+            this.lbl_sonuc.AutoSize = true;
+            this.lbl_sonuc.Location = new System.Drawing.Point(530, 591);
+            this.lbl_sonuc.Name = "lbl_sonuc";
+            this.lbl_sonuc.Size = new System.Drawing.Size(55, 13);
+            this.lbl_sonuc.TabIndex = 56;
+            this.lbl_sonuc.Text = "Cinsiyet = ";
+            // 
+            // btn_kayitol
+            // 
+            this.btn_kayitol.Location = new System.Drawing.Point(530, 555);
+            this.btn_kayitol.Name = "btn_kayitol";
+            this.btn_kayitol.Size = new System.Drawing.Size(75, 23);
+            this.btn_kayitol.TabIndex = 57;
+            this.btn_kayitol.Text = "Kayit Ol";
+            this.btn_kayitol.UseVisualStyleBackColor = true;
+            this.btn_kayitol.Click += new System.EventHandler(this.btn_kayitol_Click);
+            // 
+            // rb_evli
+            // 
+            this.rb_evli.AutoSize = true;
+            this.rb_evli.Location = new System.Drawing.Point(6, 31);
+            this.rb_evli.Name = "rb_evli";
+            this.rb_evli.Size = new System.Drawing.Size(42, 17);
+            this.rb_evli.TabIndex = 58;
+            this.rb_evli.TabStop = true;
+            this.rb_evli.Text = "Evli";
+            this.rb_evli.UseVisualStyleBackColor = true;
+            // 
+            // rb_bekar
+            // 
+            this.rb_bekar.AutoSize = true;
+            this.rb_bekar.Location = new System.Drawing.Point(54, 30);
+            this.rb_bekar.Name = "rb_bekar";
+            this.rb_bekar.Size = new System.Drawing.Size(53, 17);
+            this.rb_bekar.TabIndex = 59;
+            this.rb_bekar.TabStop = true;
+            this.rb_bekar.Text = "Bekar";
+            this.rb_bekar.UseVisualStyleBackColor = true;
+            // 
+            // groupBox1
+            // 
+            this.groupBox1.Controls.Add(this.rb_erkek);
+            this.groupBox1.Controls.Add(this.rb_kadin);
+            this.groupBox1.Location = new System.Drawing.Point(530, 475);
+            this.groupBox1.Name = "groupBox1";
+            this.groupBox1.Size = new System.Drawing.Size(155, 74);
+            this.groupBox1.TabIndex = 60;
+            this.groupBox1.TabStop = false;
+            this.groupBox1.Text = "Cinsiyet";
+            // 
+            // groupBox2
+            // 
+            this.groupBox2.Controls.Add(this.rb_evli);
+            this.groupBox2.Controls.Add(this.rb_bekar);
+            this.groupBox2.Location = new System.Drawing.Point(692, 475);
+            this.groupBox2.Name = "groupBox2";
+            this.groupBox2.Size = new System.Drawing.Size(155, 74);
+            this.groupBox2.TabIndex = 61;
+            this.groupBox2.TabStop = false;
+            this.groupBox2.Text = "Medeni Hal";
+            // 
             // CokKullanilanKontroller
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(981, 641);
+            this.ClientSize = new System.Drawing.Size(864, 641);
+            this.Controls.Add(this.groupBox2);
+            this.Controls.Add(this.groupBox1);
+            this.Controls.Add(this.btn_kayitol);
+            this.Controls.Add(this.lbl_sonuc);
+            this.Controls.Add(this.label36);
+            this.Controls.Add(this.btn_kaydet);
+            this.Controls.Add(this.cb_sozlesme);
+            this.Controls.Add(this.label35);
+            this.Controls.Add(this.tb_sonuc);
+            this.Controls.Add(this.label34);
+            this.Controls.Add(this.btn_bol);
+            this.Controls.Add(this.btn_carp);
+            this.Controls.Add(this.btn_cikar);
+            this.Controls.Add(this.btn_topla);
+            this.Controls.Add(this.tb_sayi2);
+            this.Controls.Add(this.label33);
+            this.Controls.Add(this.tb_sayi1);
+            this.Controls.Add(this.label32);
+            this.Controls.Add(this.lbl_mesaj);
+            this.Controls.Add(this.button1);
+            this.Controls.Add(this.label31);
             this.Controls.Add(this.numericUpDown2);
             this.Controls.Add(this.label30);
             this.Controls.Add(this.numericUpDown1);
@@ -555,6 +844,10 @@
             this.Text = "CokKullanilanKontroller";
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDown1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDown2)).EndInit();
+            this.groupBox1.ResumeLayout(false);
+            this.groupBox1.PerformLayout();
+            this.groupBox2.ResumeLayout(false);
+            this.groupBox2.PerformLayout();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -608,5 +901,30 @@
         private System.Windows.Forms.NumericUpDown numericUpDown1;
         private System.Windows.Forms.NumericUpDown numericUpDown2;
         private System.Windows.Forms.Label label30;
+        private System.Windows.Forms.Label label31;
+        private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.Label lbl_mesaj;
+        private System.Windows.Forms.Label label32;
+        private System.Windows.Forms.TextBox tb_sayi1;
+        private System.Windows.Forms.Label label33;
+        private System.Windows.Forms.TextBox tb_sayi2;
+        private System.Windows.Forms.Button btn_topla;
+        private System.Windows.Forms.Button btn_cikar;
+        private System.Windows.Forms.Button btn_carp;
+        private System.Windows.Forms.Button btn_bol;
+        private System.Windows.Forms.Label label34;
+        private System.Windows.Forms.TextBox tb_sonuc;
+        private System.Windows.Forms.Label label35;
+        private System.Windows.Forms.CheckBox cb_sozlesme;
+        private System.Windows.Forms.Button btn_kaydet;
+        private System.Windows.Forms.Label label36;
+        private System.Windows.Forms.RadioButton rb_kadin;
+        private System.Windows.Forms.RadioButton rb_erkek;
+        private System.Windows.Forms.Label lbl_sonuc;
+        private System.Windows.Forms.Button btn_kayitol;
+        private System.Windows.Forms.RadioButton rb_evli;
+        private System.Windows.Forms.RadioButton rb_bekar;
+        private System.Windows.Forms.GroupBox groupBox1;
+        private System.Windows.Forms.GroupBox groupBox2;
     }
 }
