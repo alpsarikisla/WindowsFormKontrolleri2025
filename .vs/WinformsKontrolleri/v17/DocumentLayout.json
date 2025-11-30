@@ -3,24 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\303\\Documents\\GitHub\\WindowsFormKontrolleri2025\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{043DD209-55D9-4CD5-83AA-A78370B32E62}|WinformsKontrolleri\\WinformsKontrolleri.csproj|c:\\users\\303\\documents\\github\\windowsformkontrolleri2025\\winformskontrolleri\\cokkullanilankontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{043DD209-55D9-4CD5-83AA-A78370B32E62}|WinformsKontrolleri\\WinformsKontrolleri.csproj|solutionrelative:winformskontrolleri\\cokkullanilankontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{043DD209-55D9-4CD5-83AA-A78370B32E62}|WinformsKontrolleri\\WinformsKontrolleri.csproj|c:\\users\\303\\documents\\github\\windowsformkontrolleri2025\\winformskontrolleri\\comboboxdatabound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{043DD209-55D9-4CD5-83AA-A78370B32E62}|WinformsKontrolleri\\WinformsKontrolleri.csproj|solutionrelative:winformskontrolleri\\comboboxdatabound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{043DD209-55D9-4CD5-83AA-A78370B32E62}|WinformsKontrolleri\\WinformsKontrolleri.csproj|C:\\Users\\303\\Documents\\GitHub\\WindowsFormKontrolleri2025\\winformskontrolleri\\cokkullanilankontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{043DD209-55D9-4CD5-83AA-A78370B32E62}|WinformsKontrolleri\\WinformsKontrolleri.csproj|solutionrelative:winformskontrolleri\\cokkullanilankontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{043DD209-55D9-4CD5-83AA-A78370B32E62}|WinformsKontrolleri\\WinformsKontrolleri.csproj|c:\\users\\303\\documents\\github\\windowsformkontrolleri2025\\winformskontrolleri\\comboboxdatabound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{043DD209-55D9-4CD5-83AA-A78370B32E62}|WinformsKontrolleri\\WinformsKontrolleri.csproj|solutionrelative:winformskontrolleri\\comboboxdatabound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{043DD209-55D9-4CD5-83AA-A78370B32E62}|WinformsKontrolleri\\WinformsKontrolleri.csproj|C:\\Users\\303\\Documents\\GitHub\\WindowsFormKontrolleri2025\\winformskontrolleri\\herhangibirform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{043DD209-55D9-4CD5-83AA-A78370B32E62}|WinformsKontrolleri\\WinformsKontrolleri.csproj|solutionrelative:winformskontrolleri\\herhangibirform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{043DD209-55D9-4CD5-83AA-A78370B32E62}|WinformsKontrolleri\\WinformsKontrolleri.csproj|c:\\users\\303\\documents\\github\\windowsformkontrolleri2025\\winformskontrolleri\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{043DD209-55D9-4CD5-83AA-A78370B32E62}|WinformsKontrolleri\\WinformsKontrolleri.csproj|solutionrelative:winformskontrolleri\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{043DD209-55D9-4CD5-83AA-A78370B32E62}|WinformsKontrolleri\\WinformsKontrolleri.csproj|C:\\Users\\303\\Documents\\GitHub\\WindowsFormKontrolleri2025\\winformskontrolleri\\herhangibirform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{043DD209-55D9-4CD5-83AA-A78370B32E62}|WinformsKontrolleri\\WinformsKontrolleri.csproj|solutionrelative:winformskontrolleri\\herhangibirform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{043DD209-55D9-4CD5-83AA-A78370B32E62}|WinformsKontrolleri\\WinformsKontrolleri.csproj|c:\\users\\303\\documents\\github\\windowsformkontrolleri2025\\winformskontrolleri\\comboboxkontrolu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{043DD209-55D9-4CD5-83AA-A78370B32E62}|WinformsKontrolleri\\WinformsKontrolleri.csproj|solutionrelative:winformskontrolleri\\comboboxkontrolu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{043DD209-55D9-4CD5-83AA-A78370B32E62}|WinformsKontrolleri\\WinformsKontrolleri.csproj|C:\\Users\\303\\Documents\\GitHub\\WindowsFormKontrolleri2025\\winformskontrolleri\\herhangibirsinif.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{043DD209-55D9-4CD5-83AA-A78370B32E62}|WinformsKontrolleri\\WinformsKontrolleri.csproj|solutionrelative:winformskontrolleri\\herhangibirsinif.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{043DD209-55D9-4CD5-83AA-A78370B32E62}|WinformsKontrolleri\\WinformsKontrolleri.csproj|c:\\users\\303\\documents\\github\\windowsformkontrolleri2025\\winformskontrolleri\\comboboxkontrolu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{043DD209-55D9-4CD5-83AA-A78370B32E62}|WinformsKontrolleri\\WinformsKontrolleri.csproj|solutionrelative:winformskontrolleri\\comboboxkontrolu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{043DD209-55D9-4CD5-83AA-A78370B32E62}|WinformsKontrolleri\\WinformsKontrolleri.csproj|C:\\Users\\303\\Documents\\GitHub\\WindowsFormKontrolleri2025\\winformskontrolleri\\datetimevetarihkontrolleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{043DD209-55D9-4CD5-83AA-A78370B32E62}|WinformsKontrolleri\\WinformsKontrolleri.csproj|solutionrelative:winformskontrolleri\\datetimevetarihkontrolleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{043DD209-55D9-4CD5-83AA-A78370B32E62}|WinformsKontrolleri\\WinformsKontrolleri.csproj|c:\\users\\303\\documents\\github\\windowsformkontrolleri2025\\winformskontrolleri\\datetimevetarihkontrolleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{043DD209-55D9-4CD5-83AA-A78370B32E62}|WinformsKontrolleri\\WinformsKontrolleri.csproj|solutionrelative:winformskontrolleri\\datetimevetarihkontrolleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -29,7 +37,7 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 129,
+          "DockedWidth": 185,
           "SelectedChildIndex": -1,
           "Children": [
             {
@@ -43,67 +51,96 @@
           ]
         },
         {
-          "DockedWidth": 271,
+          "DockedWidth": 73,
           "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CokKullanilanKontroller.cs",
-              "DocumentMoniker": "C:\\Users\\303\\Documents\\GitHub\\WindowsFormKontrolleri2025\\WinformsKontrolleri\\CokKullanilanKontroller.cs",
-              "RelativeDocumentMoniker": "WinformsKontrolleri\\CokKullanilanKontroller.cs",
-              "ToolTip": "C:\\Users\\303\\Documents\\GitHub\\WindowsFormKontrolleri2025\\WinformsKontrolleri\\CokKullanilanKontroller.cs",
-              "RelativeToolTip": "WinformsKontrolleri\\CokKullanilanKontroller.cs",
-              "ViewState": "AgIAADUAAAAAAAAAAAAgwEAAAABCAAAAAAAAAA==",
+              "Title": "ComboBoxDataBound.cs",
+              "DocumentMoniker": "C:\\Users\\303\\Documents\\GitHub\\WindowsFormKontrolleri2025\\WinformsKontrolleri\\ComboBoxDataBound.cs",
+              "RelativeDocumentMoniker": "WinformsKontrolleri\\ComboBoxDataBound.cs",
+              "ToolTip": "C:\\Users\\303\\Documents\\GitHub\\WindowsFormKontrolleri2025\\WinformsKontrolleri\\ComboBoxDataBound.cs",
+              "RelativeToolTip": "WinformsKontrolleri\\ComboBoxDataBound.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAlwJ0EAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-22T12:49:56.325Z",
+              "WhenOpened": "2025-11-30T13:25:01.822Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "CokKullanilanKontroller.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\303\\Documents\\GitHub\\WindowsFormKontrolleri2025\\WinformsKontrolleri\\CokKullanilanKontroller.cs",
-              "RelativeDocumentMoniker": "WinformsKontrolleri\\CokKullanilanKontroller.cs",
-              "ToolTip": "C:\\Users\\303\\Documents\\GitHub\\WindowsFormKontrolleri2025\\WinformsKontrolleri\\CokKullanilanKontroller.cs [Design]",
-              "RelativeToolTip": "WinformsKontrolleri\\CokKullanilanKontroller.cs [Design]",
+              "Title": "ComboBoxDataBound.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\303\\Documents\\GitHub\\WindowsFormKontrolleri2025\\WinformsKontrolleri\\ComboBoxDataBound.cs",
+              "RelativeDocumentMoniker": "WinformsKontrolleri\\ComboBoxDataBound.cs",
+              "ToolTip": "C:\\Users\\303\\Documents\\GitHub\\WindowsFormKontrolleri2025\\WinformsKontrolleri\\ComboBoxDataBound.cs [Design]",
+              "RelativeToolTip": "WinformsKontrolleri\\ComboBoxDataBound.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-16T13:52:49.395Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "HerhangiBirForm.cs",
-              "DocumentMoniker": "C:\\Users\\303\\Documents\\GitHub\\WindowsFormKontrolleri2025\\WinformsKontrolleri\\HerhangiBirForm.cs",
-              "RelativeDocumentMoniker": "WinformsKontrolleri\\HerhangiBirForm.cs",
-              "ToolTip": "C:\\Users\\303\\Documents\\GitHub\\WindowsFormKontrolleri2025\\WinformsKontrolleri\\HerhangiBirForm.cs",
-              "RelativeToolTip": "WinformsKontrolleri\\HerhangiBirForm.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-16T13:41:08.543Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "HerhangiBirForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\303\\Documents\\GitHub\\WindowsFormKontrolleri2025\\WinformsKontrolleri\\HerhangiBirForm.cs",
-              "RelativeDocumentMoniker": "WinformsKontrolleri\\HerhangiBirForm.cs",
-              "ToolTip": "C:\\Users\\303\\Documents\\GitHub\\WindowsFormKontrolleri2025\\WinformsKontrolleri\\HerhangiBirForm.cs [Design]",
-              "RelativeToolTip": "WinformsKontrolleri\\HerhangiBirForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-16T13:41:04.608Z"
+              "WhenOpened": "2025-11-30T13:23:21.225Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "HerhangiBirSinif.cs",
-              "DocumentMoniker": "C:\\Users\\303\\Documents\\GitHub\\WindowsFormKontrolleri2025\\WinformsKontrolleri\\HerhangiBirSinif.cs",
-              "RelativeDocumentMoniker": "WinformsKontrolleri\\HerhangiBirSinif.cs",
-              "ToolTip": "C:\\Users\\303\\Documents\\GitHub\\WindowsFormKontrolleri2025\\WinformsKontrolleri\\HerhangiBirSinif.cs",
-              "RelativeToolTip": "WinformsKontrolleri\\HerhangiBirSinif.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAgwA4AAAAhAAAAAAAAAA==",
+              "Title": "ComboBoxKontrolu.cs",
+              "DocumentMoniker": "C:\\Users\\303\\Documents\\GitHub\\WindowsFormKontrolleri2025\\WinformsKontrolleri\\ComboBoxKontrolu.cs",
+              "RelativeDocumentMoniker": "WinformsKontrolleri\\ComboBoxKontrolu.cs",
+              "ToolTip": "C:\\Users\\303\\Documents\\GitHub\\WindowsFormKontrolleri2025\\WinformsKontrolleri\\ComboBoxKontrolu.cs",
+              "RelativeToolTip": "WinformsKontrolleri\\ComboBoxKontrolu.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAACMAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-16T12:26:21.747Z"
+              "WhenOpened": "2025-11-30T12:52:47.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\303\\Documents\\GitHub\\WindowsFormKontrolleri2025\\WinformsKontrolleri\\Program.cs",
+              "RelativeDocumentMoniker": "WinformsKontrolleri\\Program.cs",
+              "ToolTip": "C:\\Users\\303\\Documents\\GitHub\\WindowsFormKontrolleri2025\\WinformsKontrolleri\\Program.cs",
+              "RelativeToolTip": "WinformsKontrolleri\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T12:52:21.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ComboBoxKontrolu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\303\\Documents\\GitHub\\WindowsFormKontrolleri2025\\WinformsKontrolleri\\ComboBoxKontrolu.cs",
+              "RelativeDocumentMoniker": "WinformsKontrolleri\\ComboBoxKontrolu.cs",
+              "ToolTip": "C:\\Users\\303\\Documents\\GitHub\\WindowsFormKontrolleri2025\\WinformsKontrolleri\\ComboBoxKontrolu.cs [Design]",
+              "RelativeToolTip": "WinformsKontrolleri\\ComboBoxKontrolu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T12:42:59.825Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DateTimeVeTarihKontrolleri.cs",
+              "DocumentMoniker": "C:\\Users\\303\\Documents\\GitHub\\WindowsFormKontrolleri2025\\WinformsKontrolleri\\DateTimeVeTarihKontrolleri.cs",
+              "RelativeDocumentMoniker": "WinformsKontrolleri\\DateTimeVeTarihKontrolleri.cs",
+              "ToolTip": "C:\\Users\\303\\Documents\\GitHub\\WindowsFormKontrolleri2025\\WinformsKontrolleri\\DateTimeVeTarihKontrolleri.cs",
+              "RelativeToolTip": "WinformsKontrolleri\\DateTimeVeTarihKontrolleri.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAxwEkAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T13:33:13.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DateTimeVeTarihKontrolleri.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\303\\Documents\\GitHub\\WindowsFormKontrolleri2025\\WinformsKontrolleri\\DateTimeVeTarihKontrolleri.cs",
+              "RelativeDocumentMoniker": "WinformsKontrolleri\\DateTimeVeTarihKontrolleri.cs",
+              "ToolTip": "C:\\Users\\303\\Documents\\GitHub\\WindowsFormKontrolleri2025\\WinformsKontrolleri\\DateTimeVeTarihKontrolleri.cs [Design]",
+              "RelativeToolTip": "WinformsKontrolleri\\DateTimeVeTarihKontrolleri.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T12:21:33.957Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }

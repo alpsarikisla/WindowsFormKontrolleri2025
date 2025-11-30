@@ -55,6 +55,24 @@
     <Compile Include="CokKullanilanKontroller.Designer.cs">
       <DependentUpon>CokKullanilanKontroller.cs</DependentUpon>
     </Compile>
+    <Compile Include="ComboBoxDataBound.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ComboBoxDataBound.Designer.cs">
+      <DependentUpon>ComboBoxDataBound.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ComboBoxKontrolu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ComboBoxKontrolu.Designer.cs">
+      <DependentUpon>ComboBoxKontrolu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DateTimeVeTarihKontrolleri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DateTimeVeTarihKontrolleri.Designer.cs">
+      <DependentUpon>DateTimeVeTarihKontrolleri.cs</DependentUpon>
+    </Compile>
     <Compile Include="HerhangiBirForm.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -64,10 +82,21 @@
     <Compile Include="HerhangiBirSinif.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="Model\Ilce.cs" />
+    <Compile Include="Model\Sehir.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="CokKullanilanKontroller.resx">
       <DependentUpon>CokKullanilanKontroller.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ComboBoxDataBound.resx">
+      <DependentUpon>ComboBoxDataBound.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ComboBoxKontrolu.resx">
+      <DependentUpon>ComboBoxKontrolu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DateTimeVeTarihKontrolleri.resx">
+      <DependentUpon>DateTimeVeTarihKontrolleri.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="HerhangiBirForm.resx">
       <DependentUpon>HerhangiBirForm.cs</DependentUpon>
