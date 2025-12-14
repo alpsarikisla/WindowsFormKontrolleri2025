@@ -16,7 +16,7 @@ namespace WinformsKontrolleri
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new ComboBoxDataBound());
+            Application.Run(new ResimGoruntuleyici());
         }
     }
 }

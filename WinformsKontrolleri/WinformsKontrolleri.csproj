@@ -82,10 +82,28 @@
     <Compile Include="HerhangiBirSinif.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="ListBoxKontrolu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ListBoxKontrolu.Designer.cs">
+      <DependentUpon>ListBoxKontrolu.cs</DependentUpon>
+    </Compile>
     <Compile Include="Model\Ilce.cs" />
     <Compile Include="Model\Sehir.cs" />
+    <Compile Include="PictureBoxKontrolu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PictureBoxKontrolu.Designer.cs">
+      <DependentUpon>PictureBoxKontrolu.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ResimGoruntuleyici.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ResimGoruntuleyici.Designer.cs">
+      <DependentUpon>ResimGoruntuleyici.cs</DependentUpon>
+    </Compile>
     <EmbeddedResource Include="CokKullanilanKontroller.resx">
       <DependentUpon>CokKullanilanKontroller.cs</DependentUpon>
     </EmbeddedResource>
@@ -101,6 +119,12 @@
     <EmbeddedResource Include="HerhangiBirForm.resx">
       <DependentUpon>HerhangiBirForm.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="ListBoxKontrolu.resx">
+      <DependentUpon>ListBoxKontrolu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PictureBoxKontrolu.resx">
+      <DependentUpon>PictureBoxKontrolu.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
@@ -110,6 +134,9 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="ResimGoruntuleyici.resx">
+      <DependentUpon>ResimGoruntuleyici.cs</DependentUpon>
+    </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
@@ -127,6 +154,11 @@
   <ItemGroup>
     <Content Include="Icon\mountain_icon-icons.com_54385.ico" />
     <Content Include="mountain_icon-icons.com_54385.ico" />
+    <Content Include="Resimler\BİLLBOARD.jpg" />
+    <Content Include="Resimler\frog.jpg" />
+    <Content Include="Resimler\images.jpg" />
+    <Content Include="Resimler\murataza.jpeg" />
+    <Content Include="Resimler\resim2.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

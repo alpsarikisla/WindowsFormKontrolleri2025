@@ -25,3 +25,6 @@ C:\Users\303\Documents\GitHub\WindowsFormKontrolleri2025\WinformsKontrolleri\obj
 C:\Users\303\Documents\GitHub\WindowsFormKontrolleri2025\WinformsKontrolleri\obj\Debug\WinformsKontrolleri.DateTimeVeTarihKontrolleri.resources
 C:\Users\303\Documents\GitHub\WindowsFormKontrolleri2025\WinformsKontrolleri\obj\Debug\WinformsKontrolleri.ComboBoxKontrolu.resources
 C:\Users\303\Documents\GitHub\WindowsFormKontrolleri2025\WinformsKontrolleri\obj\Debug\WinformsKontrolleri.ComboBoxDataBound.resources
+C:\Users\303\Documents\GitHub\WindowsFormKontrolleri2025\WinformsKontrolleri\obj\Debug\WinformsKontrolleri.PictureBoxKontrolu.resources
+C:\Users\303\Documents\GitHub\WindowsFormKontrolleri2025\WinformsKontrolleri\obj\Debug\WinformsKontrolleri.ListBoxKontrolu.resources
+C:\Users\303\Documents\GitHub\WindowsFormKontrolleri2025\WinformsKontrolleri\obj\Debug\WinformsKontrolleri.ResimGoruntuleyici.resources
