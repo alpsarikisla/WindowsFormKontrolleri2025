@@ -88,6 +88,12 @@
     <Compile Include="ListBoxKontrolu.Designer.cs">
       <DependentUpon>ListBoxKontrolu.cs</DependentUpon>
     </Compile>
+    <Compile Include="MenuVeToolStrip.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MenuVeToolStrip.Designer.cs">
+      <DependentUpon>MenuVeToolStrip.cs</DependentUpon>
+    </Compile>
     <Compile Include="Model\Ilce.cs" />
     <Compile Include="Model\Sehir.cs" />
     <Compile Include="PictureBoxKontrolu.cs">
@@ -103,6 +109,12 @@
     </Compile>
     <Compile Include="ResimGoruntuleyici.Designer.cs">
       <DependentUpon>ResimGoruntuleyici.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WebBrowserKontrolu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WebBrowserKontrolu.Designer.cs">
+      <DependentUpon>WebBrowserKontrolu.cs</DependentUpon>
     </Compile>
     <EmbeddedResource Include="CokKullanilanKontroller.resx">
       <DependentUpon>CokKullanilanKontroller.cs</DependentUpon>
@@ -122,6 +134,9 @@
     <EmbeddedResource Include="ListBoxKontrolu.resx">
       <DependentUpon>ListBoxKontrolu.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="MenuVeToolStrip.resx">
+      <DependentUpon>MenuVeToolStrip.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="PictureBoxKontrolu.resx">
       <DependentUpon>PictureBoxKontrolu.cs</DependentUpon>
     </EmbeddedResource>
@@ -133,9 +148,13 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <EmbeddedResource Include="ResimGoruntuleyici.resx">
       <DependentUpon>ResimGoruntuleyici.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WebBrowserKontrolu.resx">
+      <DependentUpon>WebBrowserKontrolu.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -154,10 +173,15 @@
   <ItemGroup>
     <Content Include="Icon\mountain_icon-icons.com_54385.ico" />
     <Content Include="mountain_icon-icons.com_54385.ico" />
+    <Content Include="Resimler\check.png" />
     <Content Include="Resimler\BİLLBOARD.jpg" />
+    <Content Include="Resimler\close_icon-icons.com_66473.ico" />
+    <Content Include="Resimler\close_icon-icons.com_66473.png" />
     <Content Include="Resimler\frog.jpg" />
     <Content Include="Resimler\images.jpg" />
     <Content Include="Resimler\murataza.jpeg" />
+    <Content Include="Resimler\new-file_40454.png" />
+    <Content Include="Resimler\open_folder_file_icon_219486.png" />
     <Content Include="Resimler\resim2.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

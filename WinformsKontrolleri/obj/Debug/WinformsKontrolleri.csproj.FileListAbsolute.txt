@@ -28,3 +28,5 @@ C:\Users\303\Documents\GitHub\WindowsFormKontrolleri2025\WinformsKontrolleri\obj
 C:\Users\303\Documents\GitHub\WindowsFormKontrolleri2025\WinformsKontrolleri\obj\Debug\WinformsKontrolleri.PictureBoxKontrolu.resources
 C:\Users\303\Documents\GitHub\WindowsFormKontrolleri2025\WinformsKontrolleri\obj\Debug\WinformsKontrolleri.ListBoxKontrolu.resources
 C:\Users\303\Documents\GitHub\WindowsFormKontrolleri2025\WinformsKontrolleri\obj\Debug\WinformsKontrolleri.ResimGoruntuleyici.resources
+C:\Users\303\Documents\GitHub\WindowsFormKontrolleri2025\WinformsKontrolleri\obj\Debug\WinformsKontrolleri.MenuVeToolStrip.resources
+C:\Users\303\Documents\GitHub\WindowsFormKontrolleri2025\WinformsKontrolleri\obj\Debug\WinformsKontrolleri.WebBrowserKontrolu.resources
