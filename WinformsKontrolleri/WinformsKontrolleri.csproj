@@ -67,6 +67,18 @@
     <Compile Include="ComboBoxKontrolu.Designer.cs">
       <DependentUpon>ComboBoxKontrolu.cs</DependentUpon>
     </Compile>
+    <Compile Include="ContextMenuStripKullanimi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ContextMenuStripKullanimi.Designer.cs">
+      <DependentUpon>ContextMenuStripKullanimi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DataGridViewKontrolu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DataGridViewKontrolu.Designer.cs">
+      <DependentUpon>DataGridViewKontrolu.cs</DependentUpon>
+    </Compile>
     <Compile Include="DateTimeVeTarihKontrolleri.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -94,6 +106,7 @@
     <Compile Include="MenuVeToolStrip.Designer.cs">
       <DependentUpon>MenuVeToolStrip.cs</DependentUpon>
     </Compile>
+    <Compile Include="Model\Category.cs" />
     <Compile Include="Model\Ilce.cs" />
     <Compile Include="Model\Sehir.cs" />
     <Compile Include="PictureBoxKontrolu.cs">
@@ -124,6 +137,12 @@
     </EmbeddedResource>
     <EmbeddedResource Include="ComboBoxKontrolu.resx">
       <DependentUpon>ComboBoxKontrolu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ContextMenuStripKullanimi.resx">
+      <DependentUpon>ContextMenuStripKullanimi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DataGridViewKontrolu.resx">
+      <DependentUpon>DataGridViewKontrolu.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="DateTimeVeTarihKontrolleri.resx">
       <DependentUpon>DateTimeVeTarihKontrolleri.cs</DependentUpon>

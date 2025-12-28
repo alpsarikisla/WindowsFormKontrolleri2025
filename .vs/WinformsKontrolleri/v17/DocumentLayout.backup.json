@@ -3,24 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\303\\Documents\\GitHub\\WindowsFormKontrolleri2025\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{043DD209-55D9-4CD5-83AA-A78370B32E62}|WinformsKontrolleri\\WinformsKontrolleri.csproj|c:\\users\\303\\documents\\github\\windowsformkontrolleri2025\\winformskontrolleri\\webbrowserkontrolu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{043DD209-55D9-4CD5-83AA-A78370B32E62}|WinformsKontrolleri\\WinformsKontrolleri.csproj|solutionrelative:winformskontrolleri\\webbrowserkontrolu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{043DD209-55D9-4CD5-83AA-A78370B32E62}|WinformsKontrolleri\\WinformsKontrolleri.csproj|c:\\users\\303\\documents\\github\\windowsformkontrolleri2025\\winformskontrolleri\\contextmenustripkullanimi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{043DD209-55D9-4CD5-83AA-A78370B32E62}|WinformsKontrolleri\\WinformsKontrolleri.csproj|solutionrelative:winformskontrolleri\\contextmenustripkullanimi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{043DD209-55D9-4CD5-83AA-A78370B32E62}|WinformsKontrolleri\\WinformsKontrolleri.csproj|c:\\users\\303\\documents\\github\\windowsformkontrolleri2025\\winformskontrolleri\\webbrowserkontrolu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{043DD209-55D9-4CD5-83AA-A78370B32E62}|WinformsKontrolleri\\WinformsKontrolleri.csproj|solutionrelative:winformskontrolleri\\webbrowserkontrolu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{043DD209-55D9-4CD5-83AA-A78370B32E62}|WinformsKontrolleri\\WinformsKontrolleri.csproj|c:\\users\\303\\documents\\github\\windowsformkontrolleri2025\\winformskontrolleri\\contextmenustripkullanimi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{043DD209-55D9-4CD5-83AA-A78370B32E62}|WinformsKontrolleri\\WinformsKontrolleri.csproj|solutionrelative:winformskontrolleri\\contextmenustripkullanimi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{043DD209-55D9-4CD5-83AA-A78370B32E62}|WinformsKontrolleri\\WinformsKontrolleri.csproj|C:\\Users\\303\\Documents\\GitHub\\WindowsFormKontrolleri2025\\winformskontrolleri\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{043DD209-55D9-4CD5-83AA-A78370B32E62}|WinformsKontrolleri\\WinformsKontrolleri.csproj|c:\\users\\303\\documents\\github\\windowsformkontrolleri2025\\winformskontrolleri\\datagridviewkontrolu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{043DD209-55D9-4CD5-83AA-A78370B32E62}|WinformsKontrolleri\\WinformsKontrolleri.csproj|solutionrelative:winformskontrolleri\\datagridviewkontrolu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{043DD209-55D9-4CD5-83AA-A78370B32E62}|WinformsKontrolleri\\WinformsKontrolleri.csproj|c:\\users\\303\\documents\\github\\windowsformkontrolleri2025\\winformskontrolleri\\datagridviewkontrolu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{043DD209-55D9-4CD5-83AA-A78370B32E62}|WinformsKontrolleri\\WinformsKontrolleri.csproj|solutionrelative:winformskontrolleri\\datagridviewkontrolu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{043DD209-55D9-4CD5-83AA-A78370B32E62}|WinformsKontrolleri\\WinformsKontrolleri.csproj|c:\\users\\303\\documents\\github\\windowsformkontrolleri2025\\winformskontrolleri\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{043DD209-55D9-4CD5-83AA-A78370B32E62}|WinformsKontrolleri\\WinformsKontrolleri.csproj|solutionrelative:winformskontrolleri\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{043DD209-55D9-4CD5-83AA-A78370B32E62}|WinformsKontrolleri\\WinformsKontrolleri.csproj|c:\\users\\303\\documents\\github\\windowsformkontrolleri2025\\winformskontrolleri\\menuvetoolstrip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{043DD209-55D9-4CD5-83AA-A78370B32E62}|WinformsKontrolleri\\WinformsKontrolleri.csproj|solutionrelative:winformskontrolleri\\menuvetoolstrip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{043DD209-55D9-4CD5-83AA-A78370B32E62}|WinformsKontrolleri\\WinformsKontrolleri.csproj|c:\\users\\303\\documents\\github\\windowsformkontrolleri2025\\winformskontrolleri\\herhangibirsinif.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{043DD209-55D9-4CD5-83AA-A78370B32E62}|WinformsKontrolleri\\WinformsKontrolleri.csproj|solutionrelative:winformskontrolleri\\herhangibirsinif.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{043DD209-55D9-4CD5-83AA-A78370B32E62}|WinformsKontrolleri\\WinformsKontrolleri.csproj|c:\\users\\303\\documents\\github\\windowsformkontrolleri2025\\winformskontrolleri\\cokkullanilankontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{043DD209-55D9-4CD5-83AA-A78370B32E62}|WinformsKontrolleri\\WinformsKontrolleri.csproj|solutionrelative:winformskontrolleri\\cokkullanilankontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,33 +34,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 185,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "WebBrowserKontrolu.cs",
-              "DocumentMoniker": "C:\\Users\\303\\Documents\\GitHub\\WindowsFormKontrolleri2025\\WinformsKontrolleri\\WebBrowserKontrolu.cs",
-              "RelativeDocumentMoniker": "WinformsKontrolleri\\WebBrowserKontrolu.cs",
-              "ToolTip": "C:\\Users\\303\\Documents\\GitHub\\WindowsFormKontrolleri2025\\WinformsKontrolleri\\WebBrowserKontrolu.cs",
-              "RelativeToolTip": "WinformsKontrolleri\\WebBrowserKontrolu.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAowB0AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-20T14:01:03.168Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "WebBrowserKontrolu.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\303\\Documents\\GitHub\\WindowsFormKontrolleri2025\\WinformsKontrolleri\\WebBrowserKontrolu.cs",
-              "RelativeDocumentMoniker": "WinformsKontrolleri\\WebBrowserKontrolu.cs",
-              "ToolTip": "C:\\Users\\303\\Documents\\GitHub\\WindowsFormKontrolleri2025\\WinformsKontrolleri\\WebBrowserKontrolu.cs [Design]",
-              "RelativeToolTip": "WinformsKontrolleri\\WebBrowserKontrolu.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-20T13:48:17.267Z",
-              "EditorCaption": " [Design]"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{26341fe2-71dd-46fd-bb1b-2e51a92a0d64}"
@@ -67,39 +46,77 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\303\\Documents\\GitHub\\WindowsFormKontrolleri2025\\WinformsKontrolleri\\Program.cs",
-              "RelativeDocumentMoniker": "WinformsKontrolleri\\Program.cs",
-              "ToolTip": "C:\\Users\\303\\Documents\\GitHub\\WindowsFormKontrolleri2025\\WinformsKontrolleri\\Program.cs",
-              "RelativeToolTip": "WinformsKontrolleri\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAyAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "ContextMenuStripKullanimi.cs",
+              "DocumentMoniker": "C:\\Users\\303\\Documents\\GitHub\\WindowsFormKontrolleri2025\\WinformsKontrolleri\\ContextMenuStripKullanimi.cs",
+              "RelativeDocumentMoniker": "WinformsKontrolleri\\ContextMenuStripKullanimi.cs",
+              "ToolTip": "C:\\Users\\303\\Documents\\GitHub\\WindowsFormKontrolleri2025\\WinformsKontrolleri\\ContextMenuStripKullanimi.cs",
+              "RelativeToolTip": "WinformsKontrolleri\\ContextMenuStripKullanimi.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAIwEkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-14T12:37:38.153Z",
+              "WhenOpened": "2025-12-28T13:56:01.219Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MenuVeToolStrip.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\303\\Documents\\GitHub\\WindowsFormKontrolleri2025\\WinformsKontrolleri\\MenuVeToolStrip.cs",
-              "RelativeDocumentMoniker": "WinformsKontrolleri\\MenuVeToolStrip.cs",
-              "ToolTip": "C:\\Users\\303\\Documents\\GitHub\\WindowsFormKontrolleri2025\\WinformsKontrolleri\\MenuVeToolStrip.cs [Design]",
-              "RelativeToolTip": "WinformsKontrolleri\\MenuVeToolStrip.cs [Design]",
+              "DocumentIndex": 1,
+              "Title": "ContextMenuStripKullanimi.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\303\\Documents\\GitHub\\WindowsFormKontrolleri2025\\WinformsKontrolleri\\ContextMenuStripKullanimi.cs",
+              "RelativeDocumentMoniker": "WinformsKontrolleri\\ContextMenuStripKullanimi.cs",
+              "ToolTip": "C:\\Users\\303\\Documents\\GitHub\\WindowsFormKontrolleri2025\\WinformsKontrolleri\\ContextMenuStripKullanimi.cs [Design]",
+              "RelativeToolTip": "WinformsKontrolleri\\ContextMenuStripKullanimi.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-20T12:15:10.425Z",
+              "WhenOpened": "2025-12-28T13:49:09.102Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "HerhangiBirSinif.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\303\\Documents\\GitHub\\WindowsFormKontrolleri2025\\WinformsKontrolleri\\HerhangiBirSinif.cs",
-              "RelativeDocumentMoniker": "WinformsKontrolleri\\HerhangiBirSinif.cs",
-              "ToolTip": "C:\\Users\\303\\Documents\\GitHub\\WindowsFormKontrolleri2025\\WinformsKontrolleri\\HerhangiBirSinif.cs [Design]",
-              "RelativeToolTip": "WinformsKontrolleri\\HerhangiBirSinif.cs [Design]",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\303\\Documents\\GitHub\\WindowsFormKontrolleri2025\\WinformsKontrolleri\\Program.cs",
+              "RelativeDocumentMoniker": "WinformsKontrolleri\\Program.cs",
+              "ToolTip": "C:\\Users\\303\\Documents\\GitHub\\WindowsFormKontrolleri2025\\WinformsKontrolleri\\Program.cs",
+              "RelativeToolTip": "WinformsKontrolleri\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-20T12:13:32.258Z",
+              "WhenOpened": "2025-12-28T12:43:19.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataGridViewKontrolu.cs",
+              "DocumentMoniker": "C:\\Users\\303\\Documents\\GitHub\\WindowsFormKontrolleri2025\\WinformsKontrolleri\\DataGridViewKontrolu.cs",
+              "RelativeDocumentMoniker": "WinformsKontrolleri\\DataGridViewKontrolu.cs",
+              "ToolTip": "C:\\Users\\303\\Documents\\GitHub\\WindowsFormKontrolleri2025\\WinformsKontrolleri\\DataGridViewKontrolu.cs",
+              "RelativeToolTip": "WinformsKontrolleri\\DataGridViewKontrolu.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAiwCcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T12:31:49.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DataGridViewKontrolu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\303\\Documents\\GitHub\\WindowsFormKontrolleri2025\\WinformsKontrolleri\\DataGridViewKontrolu.cs",
+              "RelativeDocumentMoniker": "WinformsKontrolleri\\DataGridViewKontrolu.cs",
+              "ToolTip": "C:\\Users\\303\\Documents\\GitHub\\WindowsFormKontrolleri2025\\WinformsKontrolleri\\DataGridViewKontrolu.cs [Design]",
+              "RelativeToolTip": "WinformsKontrolleri\\DataGridViewKontrolu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T12:23:49.032Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CokKullanilanKontroller.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\303\\Documents\\GitHub\\WindowsFormKontrolleri2025\\WinformsKontrolleri\\CokKullanilanKontroller.cs",
+              "RelativeDocumentMoniker": "WinformsKontrolleri\\CokKullanilanKontroller.cs",
+              "ToolTip": "C:\\Users\\303\\Documents\\GitHub\\WindowsFormKontrolleri2025\\WinformsKontrolleri\\CokKullanilanKontroller.cs [Design]",
+              "RelativeToolTip": "WinformsKontrolleri\\CokKullanilanKontroller.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T12:21:21.053Z",
               "EditorCaption": " [Design]"
             }
           ]
